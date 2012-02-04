@@ -1,0 +1,4 @@
+[Project]
+Name=kcm-fontadjust
+Manager=KDevCMakeManager
+VersionControl=kdevgit
