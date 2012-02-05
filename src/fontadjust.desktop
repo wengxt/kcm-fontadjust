@@ -1,0 +1,19 @@
+[Desktop Entry]
+Exec=kcmshell4 fonts
+Icon=preferences-desktop-font
+Type=Service
+X-KDE-ServiceTypes=KCModule
+ 
+X-KDE-Library=kcm_fontadjust
+X-KDE-ParentApp=kcontrol
+ 
+X-KDE-System-Settings-Parent-Category=application-appearance
+X-KDE-Weight=80
+ 
+Name=Font Adjustion
+ 
+Comment=Font detail adjustion settings
+ 
+X-KDE-Keywords=fonts,font size
+ 
+Categories=Qt;KDE;X-KDE-settings-looknfeel;
